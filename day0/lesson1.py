@@ -23,7 +23,7 @@ end_fill()
 # end of square
 
 # drawing a door
-
+begin_fill()
 forward(70)
 left(90)
 color("brown")

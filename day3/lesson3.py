@@ -4,7 +4,7 @@ from turtle import *
 #drawing houses
 speed(10)
 width(7)
-shape("circle")
+shape("square")
 color("orange")
 
 forward(100)
