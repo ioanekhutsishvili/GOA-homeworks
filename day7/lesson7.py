@@ -19,7 +19,7 @@ print(area)
 user_number = int(input("enter number: "))
 print(user_number)
 
-print(user_number > 100 or user_number * 18 )
+print(user_number > 100 and user_number % 9 )
 
 #hw5 and
 print(1 > 100 and 300 < 200)
